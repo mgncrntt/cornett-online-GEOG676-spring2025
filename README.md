@@ -1,4 +1,5 @@
 # cornett-online-GEOG676-spring2025
+Cornett GEOG 676 - GIS Prog
 
 |Labs  |
 |:------:|
