@@ -2,4 +2,4 @@
 
 |Assignment |
 |:------:|
-|[lab_01](lab_01/GITHub_Setup)|
+|[lab_01](GITHub_Setup)|
