@@ -2,4 +2,4 @@
 
 |Assignment |
 |:------:|
-|[GitHub Setup](GITHub_Setup)|
+|[GitHub Setup](GITHub_Setup.md)|
