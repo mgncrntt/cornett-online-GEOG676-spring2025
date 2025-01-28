@@ -1,5 +1,5 @@
-# Lab 2 - Fun with Loops
+# Lab 2 - Fun With Loops
 
 |Assignment |
 |:------:|
-|[Fun With Loops] (Fun_With_Loops)|
+|[Fun With Loops](Fun_With_Loops)|
