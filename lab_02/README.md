@@ -2,4 +2,4 @@
 
 |Assignment |
 |:------:|
-|[lab_02](Fun_With_Loops)|
+Assignment found [here].(Fun_With_Loops)|
